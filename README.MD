@@ -1,5 +1,9 @@
 # Face Mask Detector
 
+### Introduction
+
+In this peoject we are using a deep learning based model for detecting masks over faces. It will help us to curtail community spread of Coronavirus is presented.
+
 ### I/O Screenshots
 
 - Mask Detecting 
@@ -13,10 +17,6 @@
 - Flow Chart
  
 ![Flow Chart](https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/flowchart(Small).png)
-
-### Introduction
-
-In this peoject we are using a deep learning based model for detecting masks over faces. It will help us to curtail community spread of Coronavirus is presented.
 
 ### Using the application:
 
