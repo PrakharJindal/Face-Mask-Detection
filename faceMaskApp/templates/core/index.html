@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Face Mask Detection</title>
+
+    <meta
+      name="description"
+      content="Source code generated using layoutit.com"
+    />
+    <meta name="author" content="LayoutIt!" />
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <div style="width: 250px; margin: 0 auto">
+            <img
+              class="center"
+              width="250"
+              height="150"
+              alt="Mask Image Preview"
+              src="https://5.imimg.com/data5/PI/FD/NK/SELLER-5866466/images-500x500.jpg"
+            />
+          </div>
+          <div class="page-header" style="width: 300px; margin: 0 auto">
+            <h1>Face Mask Detection</h1>
+          </div>
+          <div class="card">
+            <h3 class="card-header">
+              <div style="width: 600px; margin: 0 auto">
+                <p></p>
+                <img
+                  src="{% url 'video_feed' %}"
+                  alt="WebCam Feed"
+                  width="600"
+                  height="350"
+                  style="border: 5px solid #555"
+                />
+              </div>
+              <div>
+                <span>
+                  We are using a deep learning based model for detecting masks
+                  over faces. It will help us to curtail community spread of
+                  Coronavirus is presented.
+                </span>
+              </div>
+            </h3>
+            <div class="card-body">
+              <p class="card-text"></p>
+            </div>
+            <div class="card-footer">
+              <strong>Note :</strong> Place camera in good lightning condition.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/scripts.js"></script>
+  </body>
+</html>
