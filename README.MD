@@ -4,13 +4,14 @@
 
 - Mask Detecting 
 ![Mask Detecting](https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/Mask.jpeg)
+![Mask Detecting](https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/Mask-small.jpeg)
 - No-Mask Detecting
-![No-Mask Detecting]("https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/No Mask.jpeg")
-![No-Mask Detecting]("https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/No Mask (Small).jpeg")
+![No-Mask Detecting](https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/NoMask.jpeg)
+![No-Mask Detecting](https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/NoMask(Small).jpeg)
 
 - Flow Chart
-![Flow Chart]("https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/flowchart.jpeg")
-![Flow Chart]("https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/flowchart (Small).jpeg")
+![Flow Chart](https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/flowchart.jpeg)
+![Flow Chart](https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/flowchart(Small).jpeg)
 
 ### Introduction
 
