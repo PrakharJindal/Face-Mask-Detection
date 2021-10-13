@@ -1,13 +1,16 @@
 # Face Mask Detector
 
-### Links
+### I/O Screenshots
 
 - Mask Detecting 
 ![Mask Detecting](https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/Mask.jpeg)
-- !No-Mask Detecting
-![No-Mask Detecting](https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/Mask.jpeg)
+- No-Mask Detecting
+![No-Mask Detecting]("https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/No Mask.jpeg")
+![No-Mask Detecting]("https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/No Mask (Small).jpeg")
 
-- [Flow Chart](https://drive.google.com/file/d/1F21K_6y1qwv14tALZHg8-Zz6hSpj--iH/view?usp=sharing)
+- Flow Chart
+![Flow Chart]("https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/flowchart.jpeg")
+![Flow Chart]("https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/flowchart (Small).jpeg")
 
 ### Introduction
 
