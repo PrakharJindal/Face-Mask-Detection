@@ -3,9 +3,9 @@
 ### Links
 
 - Mask Detecting 
-![Mask Detecting](https://drive.google.com/file/d/1YXuC39aOwAFLdkuSjLjDY56njkQktuVU/view?usp=sharing)
+![Mask Detecting](https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/Mask.jpeg)
 - !No-Mask Detecting
-![No-Mask Detecting](https://drive.google.com/file/d/1dCWLagxLtm85pZLPs0qJX2akIOmTIydK/view?usp=sharing)
+![No-Mask Detecting](https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/Mask.jpeg)
 
 - [Flow Chart](https://drive.google.com/file/d/1F21K_6y1qwv14tALZHg8-Zz6hSpj--iH/view?usp=sharing)
 
