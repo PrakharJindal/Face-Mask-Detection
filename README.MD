@@ -2,13 +2,11 @@
 
 ### Links
 
-- [Live Link](https://6145cefcd1832a59bb13e7ae--books-recommender.netlify.app/)
-- [IO Screenshot 1](https://drive.google.com/file/d/1vNWRtETDzkAS_MFO5nxBeY2Oa7tGBysu/view?usp=sharing)
-- [IO Screenshot 1](https://drive.google.com/file/d/1vNWRtETDzkAS_MFO5nxBeY2Oa7tGBysu/view?usp=sharing)
-- [IO Screenshot 2](https://drive.google.com/file/d/1-RHswveBPa7DA7tR7kcKL6cIurM-oybo/view?usp=sharing)
-- [IO Screenshot 3](https://drive.google.com/file/d/1cKQ4KZ4xRUDPaJwFXK1pylv_dVzClxzg/view?usp=sharing)
-- [IO Screenshot 4](https://drive.google.com/file/d/1KF7QrB8s8Ck2Pn9QBQQ92utKRpiq55cS/view?usp=sharing)
-- [IO Screenshot 5](https://drive.google.com/file/d/1cFUs80nu98mrkacU5upS5yzr_uiJTsXY/view?usp=sharing)
+- Mask Detecting 
+![Mask Detecting](https://drive.google.com/file/d/1YXuC39aOwAFLdkuSjLjDY56njkQktuVU/view?usp=sharing)
+- !No-Mask Detecting
+![No-Mask Detecting](https://drive.google.com/file/d/1dCWLagxLtm85pZLPs0qJX2akIOmTIydK/view?usp=sharing)
+
 - [Flow Chart](https://drive.google.com/file/d/1F21K_6y1qwv14tALZHg8-Zz6hSpj--iH/view?usp=sharing)
 
 ### Introduction
