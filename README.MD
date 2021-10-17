@@ -2,7 +2,7 @@
 
 ### Introduction
 
-In this peoject we are using a deep learning based model for detecting masks over faces. It will help us to curtail community spread of Coronavirus is presented.
+In this peoject we are using a deep learning based model for detecting masks over faces. It will help us to curtail community spread of Coronavirus if presented.
 
 ### I/O Screenshots
 
